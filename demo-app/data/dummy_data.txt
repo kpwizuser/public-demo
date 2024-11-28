@@ -3,7 +3,7 @@ id,first_name,last_name,email,gender,ip_address,credit_card
 2,Salem,Byatt,sbyatt1@tinypic.com,Male,138.233.100.74,376936969983148
 3,Daphene,Tissiman,dtissiman2@networkadvertising.org,Female,65.127.16.42,4041379314849341
 4,Ellen,Costelloe,ecostelloe3@sfgate.com,Female,204.57.129.188,5100177542550672
-5,Conway,Nijs,cnijs4@earthlink.net,Male,116.244.248.133,345323337641385
+5,Conway,Nijs,cnijs4@earthlink.net,Female,116.244.248.133,345323337641385
 6,Lila,Wrotchford,lwrotchford5@mozilla.org,Female,133.186.123.172,5108758068691222
 7,Keri,Selcraig,kselcraig6@google.ca,Female,138.158.63.117,4017959222332
 8,Korrie,Frome,kfrome7@feedburner.com,Female,250.231.93.33,5399412451098797
